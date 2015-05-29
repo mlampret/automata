@@ -56,7 +56,7 @@ public class Input {
 
     @Override
     public String toString() {
-        return "{" + _value + "}"; //To change body of generated methods, choose Tools | Templates.
+        return "{" + _value + "}";
     }
     
     
